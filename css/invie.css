@@ -33,3 +33,5 @@ body {
 	font-size: 24px;
 }
 
+.menu, .logotipo, .menu li { display: inline-block; }
+
