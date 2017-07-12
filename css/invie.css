@@ -31,6 +31,11 @@ body {
 	font-size: 35px;
 }
 
+.guitarra {
+	overflow: hidden;
+	border: 1px solid #1F313C;
+}
+
 .title-b {
 	font-size: 50px;
 	margin-bottom: 20px;
@@ -61,5 +66,13 @@ body {
 	width: 800px;
 	/*centra*/
 	margin: auto;
+}
+
+.derecha {
+	float: right;
+}
+
+.izquierda {
+	float: left;
 }
 
