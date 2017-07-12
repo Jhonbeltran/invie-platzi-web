@@ -32,8 +32,14 @@ body {
 }
 
 .guitarra {
+	margin: 10px;
+	padding: 10px;
 	overflow: hidden;
 	border: 1px solid #1F313C;
+}
+
+.guitarra ol {
+	padding: 0;
 }
 
 .title-b {
@@ -76,3 +82,10 @@ body {
 	float: left;
 }
 
+.contenedor-guitarra-b {
+	margin-left: 370px;
+}
+
+.contenedor-guitarra-a {
+	padding-left: 20px;
+}
